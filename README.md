@@ -28,7 +28,7 @@ English is the [default language](https://en.wikipedia.org/wiki/Lingua_franca). 
 
 - :movie_camera: [How to learn any language in six months | Chris Lonsdale | TEDxLingnanUniversity](https://www.youtube.com/watch?v=d0yGdNEWdn0)
 - :movie_camera: [The first 20 hours -- how to learn anything | Josh Kaufman | TEDxCSU](https://www.youtube.com/watch?v=5MgBikgcWnY)
-- :wrench: [https://www.lingoda.com](https://www.lingoda.com)
+- :wrench: [lingoda | The online language school](https://www.lingoda.com)
 
 ### Math
 
