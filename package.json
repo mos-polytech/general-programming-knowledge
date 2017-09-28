@@ -1,0 +1,20 @@
+{
+  "name": "general-programming-knowledge",
+  "version": "0.1.0",
+  "main": "index.js",
+  "repository": "https://github.com/mos-polytech/general-programming-knowledge.git",
+  "author": "sobolevn <mail@sobolevn.me>",
+  "license": "WTFPL",
+  "private": false,
+  "scripts": {
+    "test": "remark README.md CONTRIBUTING.md -f"
+  },
+  "devDependencies": {
+    "remark": "^8.0.0",
+    "remark-cli": "^4.0.0",
+    "remark-lint": "^6.0.1",
+    "remark-lint-are-links-valid-alive": "^0.2.1",
+    "remark-lint-are-links-valid-duplicate": "^0.2.1",
+    "remark-preset-lint-recommended": "^3.0.1"
+  }
+}
