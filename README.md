@@ -45,7 +45,7 @@ English is the [default language](https://en.wikipedia.org/wiki/Lingua_franca). 
 
 ### Computer Science
 
-- :video: [Map of Computer Science](https://www.youtube.com/watch?v=SzJ46YA_RaA)
+- :movie_camera: [Map of Computer Science](https://www.youtube.com/watch?v=SzJ46YA_RaA)
 - :mortar_board: [Stanford's CS101-SP](https://lagunita.stanford.edu/courses/Engineering/CS101/Summer2014/about)
 - :mortar_board: [Introduction to Computer Science and Programming](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00-introduction-to-computer-science-and-programming-fall-2008/)
 - :movie_camera: [MIT's Mathematics for Computer Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures/)
@@ -66,8 +66,8 @@ English is the [default language](https://en.wikipedia.org/wiki/Lingua_franca). 
 ### Architecture
 
 - :bookmark_tabs: [No Silver Bullet](http://faculty.salisbury.edu/~xswang/Research/Papers/SERelated/no-silver-bullet.pdf)
-- :video: [Evolutionary Software Architectures](https://www.youtube.com/watch?v=CglSFhwbI3s)
-- :mortart_board: [Software Architecture by University of Alberta](https://coursera.org/learn/software-architecture)
+- :movie_camera: [Evolutionary Software Architectures](https://www.youtube.com/watch?v=CglSFhwbI3s)
+- :mortar_board: [Software Architecture by University of Alberta](https://coursera.org/learn/software-architecture)
 - :book: [Domain-Driven Design](http://domainlanguage.com/wp-content/uploads/2016/05/DDD_Reference_2015-03.pdf)
 - :book: [Patterns of Enterprise Application Architecture](https://martinfowler.com/books/eaa.html)
 - :link: [OOP Design Patterns for Humans](https://github.com/kamranahmedse/design-patterns-for-humans)
