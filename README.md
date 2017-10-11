@@ -32,10 +32,15 @@ English is the [default language](https://en.wikipedia.org/wiki/Lingua_franca). 
 
 ### Math
 
-- :book: [Concrete Mathematics: A Foundation for Computer Science](http://freecomputerbooks.com/Concrete-Mathematics-A-Foundation-for-Computer-Science.html)
+- :book: [http://www.math.stonybrook.edu/~aknapp/download/b2-alg-inside.pdf](http://www.math.stonybrook.edu/~aknapp/download/b2-alg-inside.pdf)
+- :book: [A First Course in Linear Algebra](http://linear.ups.edu/)
+- :mortar_board: [CS 103](http://web.stanford.edu/class/cs103/) Mathematical Foundations of Computing by Stanford University
 - :mortar_board: [Introduction to Mathematical Thinking](https://www.coursera.org/learn/mathematical-thinking)
+- :book: [Concrete Mathematics: A Foundation for Computer Science](http://freecomputerbooks.com/Concrete-Mathematics-A-Foundation-for-Computer-Science.html)
+- :book: [Discrete Mathematics](http://home.iitk.ac.in/~arlal/book/mth202.pdf)
+- :book: [Graph Theory](http://compalg.inf.elte.hu/~tony/Oktatas/TDK/FINAL/)
 
-### Algorithms & Datastructures
+### Algorithms & Data Structures
 
 - :mortar_board: [Berkeley University CS 61B: Data Structures](http://datastructur.es/sp16/)
 - :mortar_board: [Algorithms, Part I | Coursera](https://www.coursera.org/learn/algorithms-part1)
@@ -46,6 +51,7 @@ English is the [default language](https://en.wikipedia.org/wiki/Lingua_franca). 
 ### Computer Science
 
 - :movie_camera: [Map of Computer Science](https://www.youtube.com/watch?v=SzJ46YA_RaA)
+- :link: [https://github.com/ossu/computer-science](Open Source Society University)
 - :mortar_board: [Stanford's CS101-SP](https://lagunita.stanford.edu/courses/Engineering/CS101/Summer2014/about)
 - :mortar_board: [Introduction to Computer Science and Programming](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00-introduction-to-computer-science-and-programming-fall-2008/)
 - :movie_camera: [MIT's Mathematics for Computer Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures/)
@@ -54,14 +60,12 @@ English is the [default language](https://en.wikipedia.org/wiki/Lingua_franca). 
 - :book: [Inside the Machine: An Illustrated Introduction to Microprocessors and Computer Architecture](https://www.amazon.com/Inside-Machine-Introduction-Microprocessors-Architecture/dp/1593276680)
 - :book: [Code: The Hidden Language of Computer Hardware and Software](https://archive.org/details/CodeTheHiddenLanguageOfComputerHardwareAndSoftware)
 
-### Cryptography
+### Programming Languages
 
-- :mortar_board: [Stanford Cryptography I](https://www.coursera.org/learn/crypto)
-- :mortar_board: [Stanford Cryptography II](https://www.coursera.org/learn/crypto2)
-- :book: [Crypto101](https://www.crypto101.io/)
-- :book: [Handbook of Applied Cryptography](http://cacr.uwaterloo.ca/hac/index.html)
-- :link: [A curated list of cryptography resources and links](https://github.com/sobolevn/awesome-cryptography)
-
+- :mortar_board: [CS 75](https://www.cs.swarthmore.edu/~jpolitz/cs75/s16/index.html) Principles of Compiler Design by Swathmore College
+- :mortar_board: [CS 91](https://www.cs.swarthmore.edu/~jpolitz/cs91/s15/index.html) Introduction to Programming Languages by Swathmore College
+- :book: [Let's Build a Compiler](http://www.stack.nl/~marcov/compiler.pdf)
+- :book: [Practical and Theoretical Aspects of Compiler Construction](http://web.stanford.edu/class/archive/cs/cs143/cs143.1128/) with lectures and slides
 
 ### Architecture
 
@@ -72,11 +76,32 @@ English is the [default language](https://en.wikipedia.org/wiki/Lingua_franca). 
 - :book: [Patterns of Enterprise Application Architecture](https://martinfowler.com/books/eaa.html)
 - :link: [OOP Design Patterns for Humans](https://github.com/kamranahmedse/design-patterns-for-humans)
 
+### Cryptography
+
+- :mortar_board: [Stanford Cryptography I](https://www.coursera.org/learn/crypto)
+- :mortar_board: [Stanford Cryptography II](https://www.coursera.org/learn/crypto2)
+- :book: [Crypto101](https://www.crypto101.io/)
+- :book: [Handbook of Applied Cryptography](http://cacr.uwaterloo.ca/hac/index.html)
+- :link: [A curated list of cryptography resources and links](https://github.com/sobolevn/awesome-cryptography)
 
 ### Networks
 
+- :book: [An Introduction to Computer Networks](http://intronetworks.cs.luc.edu/)
 - :book: [Unix network programming](http://www.unpbook.com/)
+- :mortar_board: [Khan Academy](https://www.khanacademy.org/computing/computer-science/internet-intro)
+- :mortar_board: [CS 168](https://inst.eecs.berkeley.edu/~cs168/fa15/) Computer Networks by UC Berkeley
 - :mortar_board: [Learn Socket Programming in C from Scratch](https://www.udemy.com/learn-socket-programming-in-c-from-scratch/)
+- :movie_camera: [TCP/IP and the OSI Model Explained](https://www.youtube.com/watch?v=e5DEVa9eSN0)
+- :movie_camera: [SSL and HTTPS](https://www.youtube.com/watch?v=S2iBR2ZlZf0)
+
+### Databases
+
+- :book: [Database Fundamentals](http://public.dhe.ibm.com/software/dw/db2/express-c/wiki/Database_fundamentals.pdf)
+- :book: [The Theory of Relational Databases](http://web.cecs.pdx.edu/~maier/TheoryBook/TRD.html)
+- :mortar_board: [CS 186](https://sites.google.com/site/cs186spring2015/) Introduction to Database Systems by UC Berkeley
+- :mortar_board: [15-721](http://15721.courses.cs.cmu.edu/spring2016/) Database Systems by Carnegie-Mellon University
+- :book: [What is Database Design, Anyway?](http://www.oreilly.com/data/free/what-is-database-design-anyway.csp)
+- :bookmark_tabs: [A plain English introduction to CAP Theorem](http://ksat.me/a-plain-english-introduction-to-cap-theorem/)
 
 
 ---
@@ -89,6 +114,8 @@ We highly recommend you to check out some similar projects, from which we took s
 - https://github.com/mr-mig/every-programmer-should-know
 - https://github.com/EbookFoundation/free-programming-books
 - https://github.com/kamranahmedse/developer-roadmap
+- https://github.com/jwasham/coding-interview-university
+- https://github.com/prakhar1989/awesome-courses
 
 
 ## License
