@@ -32,7 +32,7 @@ English is the [default language](https://en.wikipedia.org/wiki/Lingua_franca). 
 
 ### Math
 
-- :book: [http://www.math.stonybrook.edu/~aknapp/download/b2-alg-inside.pdf](http://www.math.stonybrook.edu/~aknapp/download/b2-alg-inside.pdf)
+- :book: [Basic Algebra](http://www.math.stonybrook.edu/~aknapp/download/b2-alg-inside.pdf)
 - :book: [A First Course in Linear Algebra](http://linear.ups.edu/)
 - :mortar_board: [CS 103](http://web.stanford.edu/class/cs103/) Mathematical Foundations of Computing by Stanford University
 - :mortar_board: [Introduction to Mathematical Thinking](https://www.coursera.org/learn/mathematical-thinking)
@@ -51,7 +51,7 @@ English is the [default language](https://en.wikipedia.org/wiki/Lingua_franca). 
 ### Computer Science
 
 - :movie_camera: [Map of Computer Science](https://www.youtube.com/watch?v=SzJ46YA_RaA)
-- :link: [https://github.com/ossu/computer-science](Open Source Society University)
+- :link: [Open Source Society University](https://github.com/ossu/computer-science)
 - :mortar_board: [Stanford's CS101-SP](https://lagunita.stanford.edu/courses/Engineering/CS101/Summer2014/about)
 - :mortar_board: [Introduction to Computer Science and Programming](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00-introduction-to-computer-science-and-programming-fall-2008/)
 - :movie_camera: [MIT's Mathematics for Computer Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures/)
@@ -66,6 +66,7 @@ English is the [default language](https://en.wikipedia.org/wiki/Lingua_franca). 
 - :mortar_board: [CS 91](https://www.cs.swarthmore.edu/~jpolitz/cs91/s15/index.html) Introduction to Programming Languages by Swathmore College
 - :book: [Let's Build a Compiler](http://www.stack.nl/~marcov/compiler.pdf)
 - :book: [Practical and Theoretical Aspects of Compiler Construction](http://web.stanford.edu/class/archive/cs/cs143/cs143.1128/) with lectures and slides
+- :link: [The Super Tiny Compiler](https://github.com/thejameskyle/the-super-tiny-compiler)
 
 ### Architecture
 
