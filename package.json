@@ -13,8 +13,17 @@
     "remark": "^8.0.0",
     "remark-cli": "^4.0.0",
     "remark-lint": "^6.0.1",
-    "remark-lint-are-links-valid-alive": "^0.2.1",
     "remark-lint-are-links-valid-duplicate": "^0.2.1",
     "remark-preset-lint-recommended": "^3.0.1"
+  },
+  "remarkConfig": {
+    "plugins": [
+      "remark-preset-lint-recommended",
+      [
+        "remark-lint-list-item-indent",
+        "space"
+      ],
+      "remark-lint-are-links-valid-duplicate"
+    ]
   }
 }

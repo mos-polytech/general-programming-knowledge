@@ -60,6 +60,16 @@ English is the [default language](https://en.wikipedia.org/wiki/Lingua_franca). 
 - :book: [Inside the Machine: An Illustrated Introduction to Microprocessors and Computer Architecture](https://www.amazon.com/Inside-Machine-Introduction-Microprocessors-Architecture/dp/1593276680)
 - :book: [Code: The Hidden Language of Computer Hardware and Software](https://archive.org/details/CodeTheHiddenLanguageOfComputerHardwareAndSoftware)
 
+### Operating Systems
+
+- :book: [Think OS](http://greenteapress.com/thinkos/): A Brief Introduction to Operating Systems
+- :book: [The Art of Unix Programming](http://catb.org/esr/writings/taoup/html/) by Eric S. Raymond
+- :movie_camera: [OS Video Course](https://www.youtube.com/playlist?list=PLEbnTDJUr_If_BnzJkkN_J0Tl3iXTL8vq)
+- :book: [Computer Science from the Bottom Up](https://www.bottomupcs.com/)
+- :book: [Bootstrap yourself to write an OS](https://github.com/tuhdo/os01)
+- :link: [Writing a tiny OS in Rust](https://os.phil-opp.com/)
+- :wrench: [Learn Bash in Y Minutes](https://learnxinyminutes.com/docs/bash/)
+
 ### Programming Languages
 
 - :mortar_board: [CS 75](https://www.cs.swarthmore.edu/~jpolitz/cs75/s16/index.html) Principles of Compiler Design by Swathmore College
@@ -104,6 +114,13 @@ English is the [default language](https://en.wikipedia.org/wiki/Lingua_franca). 
 - :book: [What is Database Design, Anyway?](http://www.oreilly.com/data/free/what-is-database-design-anyway.csp)
 - :bookmark_tabs: [A plain English introduction to CAP Theorem](http://ksat.me/a-plain-english-introduction-to-cap-theorem/)
 
+### Security
+
+- :book: [Foundations of Security](https://www.goodreads.com/book/show/128003.Foundations_of_Security)
+- :book: [Security Engineering](http://www.cl.cam.ac.uk/~rja14/book.html)
+- :link: [Awesome Hacking](https://github.com/carpedm20/awesome-hacking)
+- :mortar_board: [Web Application Exploits and Defenses](https://google-gruyere.appspot.com/part1)
+- :link: [Security Mindmap](https://learn-anything.xyz/security/information-security/cybersecurity)
 
 ---
 
@@ -112,11 +129,13 @@ English is the [default language](https://en.wikipedia.org/wiki/Lingua_franca). 
 
 We highly recommend you to check out some similar projects, from which we took some inspiration and useful material:
 
-- https://github.com/mr-mig/every-programmer-should-know
-- https://github.com/EbookFoundation/free-programming-books
-- https://github.com/kamranahmedse/developer-roadmap
-- https://github.com/jwasham/coding-interview-university
-- https://github.com/prakhar1989/awesome-courses
+- [Learn X in Y Minutes](https://learnxinyminutes.com/)
+- [Every Programmer Should Know](https://github.com/mr-mig/every-programmer-should-know)
+- [Free Programming Books](https://github.com/EbookFoundation/free-programming-books)
+- [Developer Roadmap](https://github.com/kamranahmedse/developer-roadmap)
+- [Coding Interview University](https://github.com/jwasham/coding-interview-university)
+- [Awesome Courses](https://github.com/prakhar1989/awesome-courses)
+- [Papers We Love](https://github.com/papers-we-love/papers-we-love)
 
 
 ## License
